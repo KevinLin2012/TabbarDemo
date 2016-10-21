@@ -1,4 +1,0 @@
-<!--setting.wxml-->
-<view class="container setting-list">
-    <text class="setting-item">简单设置页面</text>
-</view>
